@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+ollama
+chromadb
+pytest
+httpx
+sentence-transformers
+python-multipart
+langchain-community
+langchain-huggingface
+langchain-core

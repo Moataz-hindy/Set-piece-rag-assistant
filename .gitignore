@@ -1,0 +1,13 @@
+# Environment
+.venv/
+.env
+__pycache__/
+
+# Logs
+*.log
+
+# Data & Models
+# Keep the raw docs excluded if large, but we can allow vector store config
+# We exclude vector_store data to avoid massive commits
+backend/data/vector_store/
+notebooks/.ipynb_checkpoints/
