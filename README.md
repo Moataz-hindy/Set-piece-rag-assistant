@@ -102,4 +102,4 @@ The pipeline was evaluated on 10 tactical questions during Phase 2.6 in the Jupy
 
 ## 10. Screenshots
 ![App Screenshot](screenshot.png)
-*(Please take a screenshot of your working Streamlit app, save it as `screenshot.png` in this root directory, and commit it!)*
+
